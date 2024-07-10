@@ -1,3 +1,49 @@
+
+
+
+Space Travel Multi Page Design with Planet Animation.
+
+Overview:
+
+Space Travel landing page & about page. UX Animation &. Shares information on space travel details. Implementation on factual history on different planets throughout the galaxy with animation.
+
+
+Features:
+- Landing Page For Website.
+- Grid Layout
+- UX Planet Animation
+- Navgiation
+- BrowserRouter Components
+
+  Install :
+  - React Router Library , useState
+
+
+
+Image :
+![space land page](https://github.com/jesusfaithandwordisinmyheartalways/SpaceTravel-ReactJS/assets/90214404/4b51d939-dd49-4972-ba8f-d043957b7415)
+
+
+Video of Project:
+https://www.linkedin.com/feed/update/urn:li:activity:7216904590846218240/
+
+
+Linkedin Profile:
+https://www.linkedin.com/in/andrew-johnson-64632199/
+
+
+Contact:
+Andrew Johnson.
+andrewjohnson9393@gmail.com
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
